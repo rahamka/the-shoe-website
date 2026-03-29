@@ -1,1 +1,7 @@
-.vscode
+.vscode/
+node_modules/
+src/
+learn.md
+package-lock.json
+package.json
+tailwind.config.js
