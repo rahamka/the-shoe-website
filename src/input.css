@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer components {
+  .section-container {
+    @apply px-8 sm:px-20 max-w-5xl;
+  }
+}
